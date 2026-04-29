@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS63070RNMR")(type "KiCad")(uri "/home/violet/Downloads/TPS63070RNMR/KiCADv6/TPS63070RNMR.kicad_sym")(options "")(descr ""))
+  (lib (name "EVA-M8M-0")(type "KiCad")(uri "/home/violet/Downloads/EVA_M8M_0/EVA-M8M-0.kicad_sym")(options "")(descr ""))
+)
