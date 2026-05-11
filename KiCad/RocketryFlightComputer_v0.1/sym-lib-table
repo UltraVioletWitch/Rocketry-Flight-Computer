@@ -3,4 +3,8 @@
   (lib (name "ETQ-P3M1R5KVP")(type "KiCad")(uri "/home/violet/Documents/Projects/RocketryFlightComputer/KiCad/Symbols/ETQ-P3M1R5KVP.kicad_sym")(options "")(descr ""))
   (lib (name "EVA-M8M-0")(type "KiCad")(uri "/home/violet/Documents/Projects/RocketryFlightComputer/KiCad/Symbols/EVA-M8M-0.kicad_sym")(options "")(descr ""))
   (lib (name "TPS63070RNMR")(type "KiCad")(uri "/home/violet/Documents/Projects/RocketryFlightComputer/KiCad/Symbols/TPS63070RNMR.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-05-09_18-51-59")(type "KiCad")(uri "/home/violet/Documents/Projects/RocketryFlightComputer/KiCad/Symbols/2026-05-09_18-51-59.kicad_sym")(options "")(descr ""))
+  (lib (name "TS21-34-035-BK-160-SMT-TR")(type "KiCad")(uri "/home/violet/Documents/Projects/RocketryFlightComputer/KiCad/Symbols/TS21-34-035-BK-160-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "SKY13453-385LF")(type "KiCad")(uri "/home/violet/Documents/Projects/RocketryFlightComputer/KiCad/Symbols/SKY13453-385LF.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS2115ADRBR")(type "KiCad")(uri "/home/violet/Documents/Projects/RocketryFlightComputer/KiCad/Symbols/TPS2115ADRBR.kicad_sym")(options "")(descr ""))
 )

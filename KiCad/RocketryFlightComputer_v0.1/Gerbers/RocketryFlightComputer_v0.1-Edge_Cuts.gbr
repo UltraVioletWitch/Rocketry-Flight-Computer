@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.3+dfsg-1*%
+%TF.CreationDate,2026-05-09T19:23:04-05:00*%
+%TF.ProjectId,RocketryFlightComputer_v0.1,526f636b-6574-4727-9946-6c6967687443,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.3+dfsg-1) date 2026-05-09 19:23:04*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X203200000Y-85725000D02*
+X228600000Y-85725000D01*
+X228600000Y-117475000D01*
+X203200000Y-117475000D01*
+X203200000Y-85725000D01*
+M02*
